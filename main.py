@@ -30,6 +30,6 @@ while game_is_on:
         segments[seg_num].goto(new_x, new_y)
 
     # Move head forward
-    segments[0].forward(20)
+    segments[0].forward(10)
 
 screen.exitonclick()
