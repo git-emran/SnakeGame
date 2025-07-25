@@ -7,6 +7,7 @@ Welcome to the classic Snake Game — now with 100% more Python and 0% actual sn
 	•	Pure Python: No exotic dependencies—just the power of Python and a bit of nostalgia.
 	•	Simple Controls: Arrow keys to steer, quick reflexes to survive.
 	•	Score Tracking: Because bragging rights matter.
+![PythonSnake](https://github.com/user-attachments/assets/30a091a6-a35b-4e22-80bd-cd34bee0c24c)
 
 🚀 Getting Started
 	1.	Clone this repository:git clone https://github.com/git-emran/SnakeGame.git
